@@ -1,0 +1,63 @@
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEditor.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Unity.DataContract.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEditor.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\obj\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\Tugas-1\2D Project - Dito\obj\Debug\Assembly-CSharp.pdb
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEditor.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Unity.DataContract.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEditor.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\obj\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Project\2D Project - Dito\obj\Debug\Assembly-CSharp.pdb
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\obj\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEditor.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Mono.Cecil.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Unity.DataContract.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEditor.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Bahan Kuliah\Semester 5\Pemrograman Mobil Game - PMG\Materi\UAS\Level+Scene\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: 208df26dbf7e5bd47b717905d2549025
+timeCreated: 1480134878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robosheet_0
+    21300002: robosheet_1
+    21300004: robosheet_2
+    21300006: robosheet_3
+    21300008: robosheet_4
+    21300010: robosheet_5
+    21300012: robosheet_6
+    21300014: robosheet_7
+    21300016: robosheet_8
+    21300018: robosheet_9
+    21300020: robosheet_10
+    21300022: robosheet_11
+    21300024: robosheet_12
+    21300026: robosheet_13
+    21300028: robosheet_14
+    21300030: robosheet_15
+    21300032: robosheet_16
+    21300034: robosheet_17
+    21300036: robosheet_18
+    21300038: robosheet_19
+    21300040: robosheet_20
+    21300042: robosheet_21
+    21300044: robosheet_22
+    21300046: robosheet_23
+    21300048: robosheet_24
+    21300050: robosheet_25
+    21300052: robosheet_26
+    21300054: robosheet_27
+    21300056: robosheet_28
+    21300058: robosheet_29
+    21300060: robosheet_30
+    21300062: robosheet_31
+    21300064: robosheet_32
+    21300066: robosheet_33
+    21300068: robosheet_34
+    21300070: robosheet_35
+    21300072: robosheet_36
+    21300074: robosheet_37
+    21300076: robosheet_38
+    21300078: robosheet_39
+    21300080: robosheet_40
+    21300082: robosheet_41
+    21300084: robosheet_42
+    21300086: robosheet_43
+    21300088: robosheet_44
+    21300090: robosheet_45
+    21300092: robosheet_46
+    21300094: robosheet_47
+    21300096: robosheet_48
+    21300098: robosheet_49
+    21300100: robosheet_50
+    21300102: robosheet_51
+    21300104: robosheet_52
+    21300106: robosheet_53
+    21300108: robosheet_54
+    21300110: robosheet_55
+    21300112: robosheet_56
+    21300114: robosheet_57
+    21300116: robosheet_58
+    21300118: robosheet_59
+    21300120: robosheet_60
+    21300122: robosheet_61
+    21300124: robosheet_62
+    21300126: robosheet_63
+    21300128: robosheet_64
+    21300130: robosheet_65
+    21300132: robosheet_66
+    21300134: robosheet_67
+    21300136: robosheet_68
+    21300138: robosheet_69
+    21300140: robosheet_70
+    21300142: robosheet_71
+    21300144: robosheet_72
+    21300146: robosheet_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robosheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1018
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1018
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1018
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1017
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1018
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 921
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 919
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 918
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 919
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 920
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 918
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 816
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 817
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 816
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 815
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 815
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 813
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 813
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 814
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 724
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 725
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 729
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 728
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 727
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 731
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 636
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 638
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 637
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 638
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 637
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 638
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 546
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 546
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 546
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 546
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 454
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 455
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 455
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 456
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 456
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 455
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 356
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 359
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 359
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 360
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 254
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 254
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 254
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 254
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 257
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 257
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 139
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 140
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 139
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 137
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 131
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 139
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 139
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 139
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 141
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 9
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 13
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robosheet_73
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
